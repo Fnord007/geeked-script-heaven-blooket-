@@ -1,1 +1,4 @@
-find your way around the cheats with clicking on the branches
+# Racing Cheats
+
+## [Instant Win](instantWin.js)
+Instantly Wins the race
