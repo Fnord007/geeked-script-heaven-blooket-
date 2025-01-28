@@ -1,1 +1,7 @@
-find your way around the cheats with clicking on the branches
+# Flappy Blook Cheats
+
+### [Set Score](setScore.js)
+Sets flappy blook score
+
+### [Toggle Ghost](toggleGhost.js)
+Lets you go through the pipes
